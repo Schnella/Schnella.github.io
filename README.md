@@ -1,5 +1,5 @@
 
-# 
+# Scnella's github page
 연습용 portfolio 사이트 입니다.
 
 ## Copyright and License

@@ -11,11 +11,15 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40;
+  border-color: #FFFFFF;
 }
 
 hr.light {
   border-color: #fff;
+}
+
+hr.light_2 {
+  border-color: #1B2C41;
 }
 
 a {
@@ -39,7 +43,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: #1B2C41 !important;
 }
 
 .bg-dark {
@@ -282,7 +286,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #F05F40 !important;
+  color: #1B2C41 !important;
 }
 
 .btn {
@@ -299,7 +303,7 @@ header.masthead p {
 
 .btn-primary {
   background-color: #F05F40;
-  border-color: #F05F40;
+  border-color: #1B2C41;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
